@@ -329,7 +329,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with [Expo](https://expo.dev/)
 - Icons by [Ionicons](https://ionic.io/ionicons)
 - Encryption by [crypto-js](https://github.com/brix/crypto-js)
-- Inspired by 1Password, Bitwarden, and KeePass
 
 ---
 
